@@ -1,0 +1,19 @@
+{
+    "name": "luxiafei\/flypig",
+    "description": "a demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "llf",
+            "email": "276694999@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luxiafei\\Flypig\\": "src"
+        }
+    }
+}
