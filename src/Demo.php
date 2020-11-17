@@ -1,6 +1,6 @@
 <?php
 
-namespace Luxiafei\Demo;
+namespace Luxiafei\Flypig;
 
 use GuzzleHttp\Client;
 
